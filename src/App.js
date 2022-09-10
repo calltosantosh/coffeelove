@@ -5,18 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <iframe src="https://giphy.com/embed/TLn3LnsLMxhfyy7LuU" width="480" height="322" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coffee-espresso-pixelprophecy-TLn3LnsLMxhfyy7LuU"></a></p> 
+        <h2>I love coffee</h2>
       </header>
     </div>
   );
